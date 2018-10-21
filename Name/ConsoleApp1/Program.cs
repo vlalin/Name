@@ -10,6 +10,8 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Консоль в режиме теста");
+            Console.ReadKey();
             Console.Write("Введите ваше имя: ");
             string name = Console.ReadLine();
             Console.WriteLine("Привет " + name);

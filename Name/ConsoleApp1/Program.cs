@@ -15,6 +15,11 @@ namespace ConsoleApp1
 
             }
 
+            while (true)
+            {
+
+            }
+
             string file = "";
             int x = 0;
             Console.WriteLine("Консоль в режиме теста");

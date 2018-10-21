@@ -10,6 +10,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            string file = "";
             int x = 0;
             Console.WriteLine("Консоль в режиме теста");
             Console.ReadKey();
